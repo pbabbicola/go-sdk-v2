@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/AbiosGaming/go-sdk-v2/v3/structs"
+	"github.com/pbabbicola/go-sdk-v2/v3/structs"
 )
 
 // Constant variables that represents endpoints
